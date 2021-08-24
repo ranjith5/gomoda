@@ -1,3 +1,3 @@
-module github.com/ranjith5/gomoda/mod1
+module github.com/ranjith5/gomoda
 
 go 1.16
